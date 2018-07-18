@@ -12,7 +12,7 @@ namespace FilterSymbols.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "Filter a list of stock ticker Symbols.";
         }
     }
 }
